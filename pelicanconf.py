@@ -1,4 +1,6 @@
-AUTHOR = 'hooni'
+THEME = "themes-edit/elegant-op6161"
+
+AUTHOR = 'op6161'
 SITENAME = '꿈동산'
 SITEURL = ""
 
